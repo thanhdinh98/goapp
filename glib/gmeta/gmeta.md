@@ -1,0 +1,1 @@
+# Internal defined types (Global)

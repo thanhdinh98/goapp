@@ -1,0 +1,1 @@
+# Internal libaries implementation (Global - used for multiple projects)
