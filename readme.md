@@ -1,3 +1,3 @@
-# Temaplte for go application
+# Template for go application
 
-## I would greatly appreciate all of your contributions to make this template more robust and widely usable.
+## I would greatly appreciate all of your contribution to make this template more robust and widely usable.
